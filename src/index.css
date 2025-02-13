@@ -1,1 +1,35 @@
 @import "tailwindcss";
+
+@theme {
+    /* COLOR */
+    --color-1: #97cf5a;
+    --color-2: #42bb7d;
+    --color-3: #499e5a;
+    --color-4: #e4cfaa;
+    --color-5: #3f3f3f;
+    --color-6: #f0f0f0;
+
+    /* FONT-FAMILY */
+    --fuente-1: Source Code Pro;
+    --fuente-1: Barlow Semi Condensed;
+
+    /* TYPOGRAPHY */
+    --size-paragraph: 1rem;
+    --size-h1: 3.5rem;
+    --size-h2: 2.625rem;
+    --size-h3: 1.875rem;
+    --size-button: 1.25rem;
+
+    --line-height-paragraph: 1.5rem;
+    --line-height-h1: 3.5rem;
+    --line-height-h2: 2.25rem;
+    --line-height-h3: 1.875rem;
+    --line-height-button: 1.5rem;
+
+}
+
+/* @font-face {
+    font-family: "Source Code Pro";
+    src: url('https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap');
+} */
+
