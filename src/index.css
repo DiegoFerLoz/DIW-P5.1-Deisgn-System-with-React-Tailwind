@@ -2,16 +2,16 @@
 
 @theme {
     /* COLOR */
-    --color-1: #97cf5a;
-    --color-2: #42bb7d;
-    --color-3: #499e5a;
-    --color-4: #e4cfaa;
-    --color-5: #3f3f3f;
-    --color-6: #f0f0f0;
+    --color-main-1: #649A28;
+    --color-main-2: #42bb7d;
+    --color-main-3: #499e5a;
+    --color-main-4: #e4cfaa;
+    --color-main-5: #3f3f3f;
+    --color-main-6: #f0f0f0;
 
     /* FONT-FAMILY */
-    --fuente-1: Source Code Pro;
-    --fuente-1: Barlow Semi Condensed;
+    --font-1: "Source Code Pro";
+    --font-2: "Barlow Semi Condensed";
 
     /* TYPOGRAPHY */
     --size-paragraph: 1rem;
@@ -28,8 +28,11 @@
 
 }
 
-/* @font-face {
-    font-family: "Source Code Pro";
-    src: url('https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap');
-} */
+
+/* NPM INSTALL --> @ IMPORT */
+.source-code-pro {
+    font-family: "Source Code Pro", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
 
