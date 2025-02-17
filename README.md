@@ -50,7 +50,7 @@ En la implementación, utilizamos **React** y **TypeScript** para crear los comp
 
 Tras implementar los componentes, hemos creado una página sencilla donde podemos probar el funcionamiento de cada componente.
 
-## 5. Enlaces de interés
+## 6. Enlaces de interés
 
 - **[Enlace al Sistema de Diseño en Figma]**:(https://www.figma.com/design/pFMKjOIWh9W0iOTL0lAkUh/Figma-Pistacho-Webs?node-id=0-1&t=aO5bD78e4onGbYFK-1)
 - **[Repositorio en GitHub]**: (https://github.com/DiegoFerLoz/DIW-P5.1-Deisgn-System-with-React-Tailwind)
