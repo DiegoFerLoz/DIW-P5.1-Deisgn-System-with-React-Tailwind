@@ -8,10 +8,11 @@
     --color-main-4: #e4cfaa;
     --color-main-5: #3f3f3f;
     --color-main-6: #f0f0f0;
+    --color-main-7: #FDB500;
 
     /* FONT-FAMILY */
-    --font-1: "Source Code Pro";
-    --font-2: "Barlow Semi Condensed";
+    --font-source-code-pro: "Source Code Pro", sans-serif;
+    --font-barlow-semi-condensed: "Barlow Semi Condensed", sans-serif;
 
     /* TYPOGRAPHY */
     --text-paragraph: 1rem;

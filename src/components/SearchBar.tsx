@@ -3,17 +3,16 @@ import { useState } from "react";
 interface SearchBarProps {
   id: string;
   placeholder?: string;
-  width: number;
   actionSearch: (text: string) => void;
 }
 
-function SearchBar({ id, placeholder = "", width, actionSearch }: SearchBarProps) {
+function SearchBar({ id, placeholder = "", actionSearch }: SearchBarProps) {
   const [busqueda, setBusqueda] = useState("");
 
   return (
     <>
       <div
-        className={`rounded-md text-main-5 bg-main-6 border-main-5 border-4 ps-4 pe-1 py-1 w-${width} flex justify-between align-middle`}
+        className={`rounded-md text-main-5 bg-main-6 border-main-5 border-4 ps-4 pe-1 py-1 w-70 flex justify-between align-middle font-source-code-pro`}
       >
         <input
           id={id}
