@@ -21,7 +21,8 @@ En Figma, creamos los siguientes elementos del sistema de diseño:
   - **H3**: 30 px con un interlineado de 30 px.
   - **Párrafo:**: 16 px con un interlineado de 24 px.
   - **Botones**: 20 px con un interlineado de 24 px.
-
+    
+![Diseño de Fuentes en Figma](./ReadmeAssets/Fuentes.png)
 - **Paleta de Colores**: Definimos una paleta que incluye colores basados en el verde para acompañar el logo, así como colores auxiliares que crean un buen contraste. Entre los colores principales destacan:
   - **Azul (#0A7E8D)**: Color principal para botones.
   - **Verde botón (#42BB7D)**: Color secundario para los botones.
@@ -30,13 +31,24 @@ En Figma, creamos los siguientes elementos del sistema de diseño:
   - **Gris (#3F3F3F)**: Color oscuro más suave que el color negro. Para la tipografía.
   - **Blanco (#F0F0F0)**: Color de fondo, un blanco ligeramente apagado.
   - **Amarillo estrella (#FDB500)**: Color para los iconos de estrella, utilizados en las card.
-  
+    
+  ![Diseño de Nuestra Paleta de Colores en Figma](./ReadmeAssets/PaletaColores.png)
 - **Componentes:** Definimos varios componentes como:
   - **Botones**: El botón por defecto es azul, y transiciona a un color verde al posicionar el ratón sobre él. Su acción al ser pulsado es mostrar por consola un texto predefinido, pero más adelante se modificará según convenga. Este botón puede estar también desactivado, cambiando a un color blanco y no realizando ninguna acción al ser pulsado.
+
+  ![Diseño de Botones en Figma](./ReadmeAssets/Botones.png)
   - **Barra de búsqueda**: Esta barra de búsqueda, presente en el Header, permite escribir en ella y al pulsar sobre el icono de la lupa mostrará su contenido por consola, más adelante se implementará la búsqueda.
+
+  ![Diseño de Barra de Búsqueda en Figma](./ReadmeAssets/BarraBusqueda.png)
   - **Cards de reseñas con un sistema de puntuación**: En las cards añadimos las reseñas de clientes, con el nombre de usuario, su reseña y una calificación de 0 a 5 estrellas.
+
+  ![Diseño de las Cards en Figma](./ReadmeAssets/Card.png)
   - **Header**: Elemento de cabecera con el icono de la empresa, enlaces a las 4 páginas, y una barra de navegación.
+
+  ![Diseño del Header en Figma](./ReadmeAssets/Header.png)
   - **Footer**: Elemento de pie de página con el copyright, código postal, icono y enlaces a redes sociales de la empresa; además de enlaces a páginas de interés legal.
+
+    ![Diseño del Footer en Figma](./ReadmeAssets/Footer.png)
 
 ## 3. Exportación a Tailwind CSS
 
