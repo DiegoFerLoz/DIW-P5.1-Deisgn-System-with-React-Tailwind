@@ -1,7 +1,7 @@
 # P5.1 - Componentes React con Tailwind
 > S2DAW Diseño de Interfaces Web
 
-> Autores: Laura Arellano Torrero & Diego Fernández López
+> Autores: Laura Arellano Torrero & Diego Fernández Lozano
 
 ## 1. Descripción general de nuestro proyecto
 
