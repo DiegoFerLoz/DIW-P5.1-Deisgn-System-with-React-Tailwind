@@ -92,15 +92,15 @@ En la implementación, utilizamos **React** y **TypeScript** para crear los comp
 Tras implementar los componentes, hemos creado una página sencilla donde podemos probar el funcionamiento de cada componente. Aquí se muestra cada componente ya implementado y funcionando en la página de prueba: 
 
 - **Botones**:
-  ![Diseño de Botones en React](./ReadmeAssets/BotonesExample.png)
+![Diseño de Botones en React](./ReadmeAssets/BotonesExample.png)
 - **Barra de búsqueda**:
-  ![Diseño de Barra de Búsqueda en React](./ReadmeAssets/BarraBusquedaExample.png)
+![Diseño de Barra de Búsqueda en React](./ReadmeAssets/BarraBusquedaExample.png)
 - **Cards**:
-  ![Diseño de las Cards en React](./ReadmeAssets/CardsExample.png)
+![Diseño de las Cards en React](./ReadmeAssets/CardsExample.png)
 - **Header**:
-  ![Diseño del Header en React](./ReadmeAssets/HeaderExample.png)
+![Diseño del Header en React](./ReadmeAssets/HeaderExample.png)
 - **Footer**:
-  ![Diseño del Footer en React](./ReadmeAssets/FooterExample.png)
+![Diseño del Footer en React](./ReadmeAssets/FooterExample.png)
 
 ## 6. Enlaces de interés
 
