@@ -14,17 +14,17 @@
     --font-2: "Barlow Semi Condensed";
 
     /* TYPOGRAPHY */
-    --size-paragraph: 1rem;
-    --size-h1: 3.5rem;
-    --size-h2: 2.625rem;
-    --size-h3: 1.875rem;
-    --size-button: 1.25rem;
+    --text-paragraph: 1rem;
+    --text-h1: 3.5rem;
+    --text-h2: 2.625rem;
+    --text-h3: 1.875rem;
+    --text-button: 1.25rem;
 
-    --line-height-paragraph: 1.5rem;
-    --line-height-h1: 3.5rem;
-    --line-height-h2: 2.25rem;
-    --line-height-h3: 1.875rem;
-    --line-height-button: 1.5rem;
+    --leading-paragraph: 1.5rem;
+    --leading-h1: 3.5rem;
+    --leading-h2: 2.25rem;
+    --leading-h3: 1.875rem;
+    --leading-button: 1.5rem;
 
 }
 
