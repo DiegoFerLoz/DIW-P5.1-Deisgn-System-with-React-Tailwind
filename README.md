@@ -21,7 +21,7 @@ En Figma, creamos los siguientes elementos del sistema de diseño:
   - **H3**: 30 px con un interlineado de 30 px.
   - **Párrafo:**: 16 px con un interlineado de 24 px.
   - **Botones**: 20 px con un interlineado de 24 px.
-
+![Diseño de Fuentes en Figma](./ReadmeAssets/Fuentes.png)
 - **Paleta de Colores**: Definimos una paleta que incluye colores basados en el verde para acompañar el logo, así como colores auxiliares que crean un buen contraste. Entre los colores principales destacan:
   - **Azul (#0A7E8D)**: Color principal para botones.
   - **Verde botón (#42BB7D)**: Color secundario para los botones.
