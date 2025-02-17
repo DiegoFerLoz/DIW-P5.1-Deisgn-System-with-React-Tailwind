@@ -36,16 +36,16 @@ En Figma, creamos los siguientes elementos del sistema de diseño:
 - **Componentes:** Definimos varios componentes como:
   - **Botones**: El botón por defecto es azul, y transiciona a un color verde al posicionar el ratón sobre él. Su acción al ser pulsado es mostrar por consola un texto predefinido, pero más adelante se modificará según convenga. Este botón puede estar también desactivado, cambiando a un color blanco y no realizando ninguna acción al ser pulsado.
 
-    ![Diseño de Botones en Figma](./ReadmeAssets/Botones.png)
+  ![Diseño de Botones en Figma](./ReadmeAssets/Botones.png)
   - **Barra de búsqueda**: Esta barra de búsqueda, presente en el Header, permite escribir en ella y al pulsar sobre el icono de la lupa mostrará su contenido por consola, más adelante se implementará la búsqueda.
 
-    ![Diseño de Barra de Búsqueda en Figma](./ReadmeAssets/BarraBusqueda.png)
+  ![Diseño de Barra de Búsqueda en Figma](./ReadmeAssets/BarraBusqueda.png)
   - **Cards de reseñas con un sistema de puntuación**: En las cards añadimos las reseñas de clientes, con el nombre de usuario, su reseña y una calificación de 0 a 5 estrellas.
 
-    ![Diseño de las Cards en Figma](./ReadmeAssets/Card.png)
+  ![Diseño de las Cards en Figma](./ReadmeAssets/Card.png)
   - **Header**: Elemento de cabecera con el icono de la empresa, enlaces a las 4 páginas, y una barra de navegación.
 
-    ![Diseño del Header en Figma](./ReadmeAssets/Header.png)
+  ![Diseño del Header en Figma](./ReadmeAssets/Header.png)
   - **Footer**: Elemento de pie de página con el copyright, código postal, icono y enlaces a redes sociales de la empresa; además de enlaces a páginas de interés legal.
 
     ![Diseño del Footer en Figma](./ReadmeAssets/Footer.png)
