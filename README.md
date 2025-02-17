@@ -22,16 +22,26 @@ En Figma, creamos los siguientes elementos del sistema de diseño:
   - **Párrafo:**: 16 px con un interlineado de 24 px.
   - **Botones**: 20 px con un interlineado de 24 px.
     
-![Diseño de Fuentes en Figma](./ReadmeAssets/Fuentes.png)
-```css
-    --color-main-1: #0A7E8D;
-    --color-main-2: #42bb7d;
-    --color-main-3: #499e5a;
-    --color-main-4: #e4cfaa;
-    --color-main-5: #3f3f3f;
-    --color-main-6: #f0f0f0;
-    --color-main-7: #FDB500;
-```
+  ![Diseño de Fuentes en Figma](./ReadmeAssets/Fuentes.png)
+  ```css
+    /* FONT-FAMILY */
+    --font-source-code-pro: "Source Code Pro", sans-serif;
+    --font-barlow-semi-condensed: "Barlow Semi Condensed", sans-serif;
+
+    /* TYPOGRAPHY */
+    --text-paragraph: 1rem;
+    --text-h1: 3.5rem;
+    --text-h2: 2.625rem;
+    --text-h3: 1.875rem;
+    --text-button: 1.25rem;
+
+    --leading-paragraph: 1.5rem;
+    --leading-h1: 3.5rem;
+    --leading-h2: 2.25rem;
+    --leading-h3: 1.875rem;
+    --leading-button: 1.5rem;
+  ```
+
 - **Paleta de Colores**: Definimos una paleta que incluye colores basados en el verde para acompañar el logo, así como colores auxiliares que crean un buen contraste. Entre los colores principales destacan:
   - **Azul (#0A7E8D)**: Color principal para botones.
   - **Verde botón (#42BB7D)**: Color secundario para los botones.
@@ -42,6 +52,16 @@ En Figma, creamos los siguientes elementos del sistema de diseño:
   - **Amarillo estrella (#FDB500)**: Color para los iconos de estrella, utilizados en las card.
     
   ![Diseño de Nuestra Paleta de Colores en Figma](./ReadmeAssets/PaletaColores.png)
+  ```css
+    /* COLOR */
+    --color-main-1: #0A7E8D;
+    --color-main-2: #42bb7d;
+    --color-main-3: #499e5a;
+    --color-main-4: #e4cfaa;
+    --color-main-5: #3f3f3f;
+    --color-main-6: #f0f0f0;
+    --color-main-7: #FDB500;
+  ```
 - **Componentes:** Definimos varios componentes como:
   - **Botones**: El botón por defecto es azul, y transiciona a un color verde al posicionar el ratón sobre él. Su acción al ser pulsado es mostrar por consola un texto predefinido, pero más adelante se modificará según convenga. Este botón puede estar también desactivado, cambiando a un color blanco y no realizando ninguna acción al ser pulsado.
 
@@ -69,7 +89,13 @@ En la implementación, utilizamos **React** y **TypeScript** para crear los comp
 
 ## 5. Creación de una página de prueba
 
-Tras implementar los componentes, hemos creado una página sencilla donde podemos probar el funcionamiento de cada componente.
+Tras implementar los componentes, hemos creado una página sencilla donde podemos probar el funcionamiento de cada componente. Aquí se muestra cada componente ya implementado y funcionando en la página de prueba: 
+
+- **Botones**: ![Diseño de Botones en React](./ReadmeAssets/BotonesExample.png)
+- **Barra de búsqueda**: ![Diseño de Barra de Búsqueda en React](./ReadmeAssets/BarraBusquedaExample.png)
+- **Cards**: ![Diseño de las Cards en React](./ReadmeAssets/CardsExample.png)
+- **Header**: ![Diseño del Header en React](./ReadmeAssets/HeaderExample.png)
+- **Footer**: ![Diseño del Footer en React](./ReadmeAssets/FooterExample.png)
 
 ## 6. Enlaces de interés
 
