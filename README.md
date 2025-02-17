@@ -55,5 +55,4 @@ Tras implementar los componentes, hemos creado una página sencilla donde podemo
 - **[Enlace al Sistema de Diseño en Figma]**:(https://www.figma.com/design/pFMKjOIWh9W0iOTL0lAkUh/Figma-Pistacho-Webs?node-id=0-1&t=aO5bD78e4onGbYFK-1)
 - **[Repositorio en GitHub]**: (https://github.com/DiegoFerLoz/DIW-P5.1-Deisgn-System-with-React-Tailwind)
 
-Este documento proporciona una visión general del proyecto y las decisiones que hemos tomado en cuanto a diseño. Además, contiene enlaces a recursos adicionales como el diseño en Figma y el código fuente del proyecto en GitHub.
-
+Este documento proporciona una visión general del proyecto y las decisiones que hemos tomado en cuanto a diseño. 
