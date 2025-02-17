@@ -13,10 +13,12 @@ function Button({ text, width = 35, variant = "normal", actionClick }: ButtonPro
     disabled: "bg-main-6 text-main-5 border-main-5 border-1",
   };
 
+  // Elimino la funcionalidad si su estado es "disabled".
   if (variant == "disabled"){
     actionClick = function () {};
   }
 
+  // Para controlar que no se hagan botones más grandes de 80.
   if (width > 80){
     width = 80;
   }
