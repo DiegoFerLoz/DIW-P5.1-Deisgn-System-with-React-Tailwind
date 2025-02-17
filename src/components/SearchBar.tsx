@@ -32,7 +32,7 @@ function SearchBar({ id, placeholder = "", actionSearch }: SearchBarProps) {
             }
           }}>
           <div className="bg-main-5 rounded-3xl p-1.5">
-            <img src="assets/line-md--search.svg" alt="search-logo" className="w-8"/>
+            <img src="assets/line-md--search.svg" alt="search-logo" className="w-8 cursor-pointer"/>
           </div>
           
         </button>

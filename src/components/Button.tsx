@@ -8,7 +8,7 @@ interface ButtonProps {
 
 function Button({ text, variant = "normal", actionClick }: ButtonProps) {
   const variants: Record<Variant, string> = {
-    normal: "bg-main-1 hover:bg-main-2 text-main-6 font-bold hover:text-main-5",
+    normal: "bg-main-1 hover:bg-main-2 text-main-6 font-bold hover:text-main-5 cursor-pointer",
     disabled: "bg-main-6 text-main-5 border-main-5 border-1",
   };
 

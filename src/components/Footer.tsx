@@ -13,15 +13,15 @@ function Footer() {
 
       <div className="text-center gap-3 flex flex-col font-source-code-pro">
         <h3 className="text-h3 leading-h3 text-main-4 font-barlow-semi-condensed">Social</h3>
-        <p className="text-paragraph leading-paragraph">Redes Sociales</p>
-        <p className="text-paragraph leading-paragraph">Email</p>
+        <a href="#" className="text-paragraph leading-paragraph">Redes Sociales</a>
+        <a href="#" className="text-paragraph leading-paragraph">Email</a>
       </div>
 
       <div className="text-center gap-3 flex flex-col font-source-code-pro">
         <h3 className="text-h3 leading-h3 text-main-4 font-barlow-semi-condensed">Legal</h3>
-        <p className="text-paragraph leading-paragraph">Política de Privacidad</p>
-        <p className="text-paragraph leading-paragraph">Aviso Legal</p>
-        <p className="text-paragraph leading-paragraph">Política de Cookies</p>
+        <a href="#" className="text-paragraph leading-paragraph">Política de Privacidad</a>
+        <a href="#" className="text-paragraph leading-paragraph">Aviso Legal</a>
+        <a href="#" className="text-paragraph leading-paragraph">Política de Cookies</a>
       </div>
     </div>
   )
