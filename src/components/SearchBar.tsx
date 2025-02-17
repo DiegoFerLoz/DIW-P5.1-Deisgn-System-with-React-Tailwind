@@ -12,13 +12,14 @@ function SearchBar({ placeholder = "", width, actionSearch }: SearchBarProps) {
   return (
     <>
       <div
-        className={`rounded-md bg-main-6 border-main-5 border-4 px-4 py-2 w-${width}`}
+        className={`rounded-md text-main-5 bg-main-6 border-main-5 border-4 px-4 py-2 w-${width}`}
       >
         <input
           id="searchBar"
           type="text"
           placeholder={placeholder}
           onChange={(e) => setBusqueda(e.target.value)}
+          className="text-main-5"
         />
 
         <button

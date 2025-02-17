@@ -2,11 +2,14 @@
 import Button from "./components/Button"
 import SearchBar from "./components/SearchBar"
 import Card from "./components/Card"
+import Header from "./components/Header"
 
 function App() {
 
   return (
     <>
+      <Header></Header>
+
       <div className="">
         <h1 className="text-2xl font-bold">Prueba de botones.</h1>
         <Button text="Normal" actionClick={() => console.log("Prueba")}></Button>
